@@ -1,0 +1,29 @@
+Zendriix web application
+To do:
+
+Main sections:
+-1-client login
+-2-online shop
+-3-company details
+-4-blog
+
+Subsections:
+-1-client login
+-1.1- create account function
+-1.2- account login function
+-1.3- client details administration
+
+-2-online shop
+-2.1- sale page design 
+-2.2- add product 
+-2.3- modify product
+-2.4- statistics
+
+-3-company details
+-3.1-about page
+-3.2-FAQ
+-3.3-contact section
+
+-4-blog
+-4.1-setup WP blog
+

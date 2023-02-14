@@ -1,1 +1,3 @@
 if post login include client_login/login.txt
+if post create_account include client_login/create_account.txt
+if post admin_account include client_login/admin_account.txt

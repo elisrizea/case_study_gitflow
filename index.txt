@@ -1,1 +1,2 @@
 if post login_function include login_function.txt
+if post shop_page include shop_page.txt

@@ -1,2 +1,4 @@
 if post login_function include login_function.txt
 if post shop_page include shop_page.txt
+if post company include company.txt
+if post blog include blog.txt

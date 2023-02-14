@@ -1,0 +1,2 @@
+write all function to manage statistics 
+and products display page

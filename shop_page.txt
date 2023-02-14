@@ -1,0 +1,2 @@
+if post sales include sales_manage_and_statistics.txt
+if post statistics include sales_manage_and_statistics.txt

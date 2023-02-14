@@ -1,0 +1,4 @@
+if post blog include blog/blog.txt
+if post about include company/about.txt
+if post contact include company/contact.txt
+if post faq include company/faq.txt
